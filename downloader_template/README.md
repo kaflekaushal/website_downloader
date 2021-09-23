@@ -9,3 +9,4 @@ Run __splitter.py__. It splits the total number of websites into a group of 5, a
 
 ##Step 4##
 Run __runner.sh__. It runs the crawler one at a time by going into each __part__ folder, until all the parts are complete. 
+
